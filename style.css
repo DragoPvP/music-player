@@ -15,6 +15,10 @@ body {
     margin: 0;
 }
 
+h1 {
+    color: #061528;
+}
+
 .music-container {
     background-color: #fff;
     border-radius: 15px;
